@@ -1,0 +1,39 @@
+body{
+    background-color: #c5e8e8;
+}
+table{
+    font-size: 3ch;
+}
+.eram
+{
+    font-size: 2.5ch;
+}
+.eram1{
+    font-size: 2.5ch;
+}
+.eram2
+{
+    font-size: 2.5ch;
+}
+.eram5{
+    text-align: center;
+}
+.eram6{
+    text-align: center;
+}
+.eram6 :hover
+{
+    background-color: #15ff00;
+}
+.eram3
+{
+    text-align: center;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline ;
+}
+h1 :hover
+{
+    color: #15ff00;
+    background-color: blue;
+}
