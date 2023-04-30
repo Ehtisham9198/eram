@@ -6,20 +6,22 @@ table{
 }
 .eram
 {
-    font-size: 2.5ch;
+    font-size: 2ch;
 }
 .eram1{
-    font-size: 2.5ch;
+    font-size: 2ch;
 }
 .eram2
 {
-    font-size: 2.5ch;
+    font-size: 2ch;
 }
 .eram5{
     text-align: center;
+    text-decoration: underline;
 }
 .eram6{
     text-align: center;
+    text-decoration: underline;
 }
 .eram6 :hover
 {
